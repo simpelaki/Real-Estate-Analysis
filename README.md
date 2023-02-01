@@ -11,8 +11,8 @@ The objectives of our project were -
 ●	Finding cities with better investment potential
 ●	Seasonal changes and Effects
 
-I looked into whether the seasons have any effect on the sale prices of the houses across these 5 cities. I amde comparisons betweem summer and winter sales prices.
+I looked into whether the seasons have any effect on the sale prices of the houses across these 5 cities. I made comparisons between summer and winter sales prices.
 
-We created line graphs and bar graphs to get the over and spread of our data
+We created line graphs and bar graphs to get the overview and spread of our data
 
-Then I did paired t-test to check. The results from the analysis indicate that there statically significant difference in the sale prices of the homes between winter and summer (p = <0.05)
+Then I did paired t-test to check. The results from the analysis indicate that there was statically significant difference in the sale prices of the homes between winter and summer (p = <0.05)
