@@ -16,3 +16,5 @@ We looked into whether the seasons have any effect on the sale prices of the hou
 We created line graphs and bar graphs to get the overview and spread of our data
 
 Then we did paired t-test to check. The results from the analysis indicate that there was statically significant difference in the sale prices of the homes between winter and summer (p = <0.05)
+
+Chandrani Ghosh - Francis Rivera - Simpel Osman - Wei Chen 
