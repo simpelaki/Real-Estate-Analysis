@@ -1,5 +1,5 @@
 # Group-project 1
-# Group - 8
+
 # Name:  Real Estate Analysis
 
 The focus of our project was real estate data analysis on 5 hottest selling cities between "2015 - 2022."
